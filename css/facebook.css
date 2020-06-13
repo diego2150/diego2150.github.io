@@ -1,0 +1,122 @@
+ul.forma{
+  list-style: none;
+  background-color: #222885;
+  padding: 15px;
+  text-align: left;
+  color: #FFFFFF;
+  font-size: 60px;
+  font-weight: 900;
+  position: fixed;
+  top: -60px;
+  width: 100%;
+  font-family: monospace;
+}
+
+.formaError{
+  list-style: none;
+  background-color: red;
+  padding: 15px;
+  text-align: left;
+  color: #01FFE8;
+  font-size: 60px;
+  font-weight: 900;
+  position: fixed;
+  top: -60px;
+  width: 100%;
+  font-family: monospace;
+}
+
+table.ingreso{
+  position: absolute;
+  top: auto;
+  left: 900px;
+  color: #ffffff;
+}
+
+body{
+  margin: 0px;
+  background-image: url("../imagenes/fondoFacebook.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+p.parra1{
+  font-size: 35px;
+  margin: 90px 0px 0px 10px;
+  font-weight: bold;
+  color: #2B1B95;
+}
+
+p.parra2{
+  font-size: 35px;
+  margin: -10px 0px 0px 10px;
+  font-weight: bold;
+  color: #2B1B95;
+}
+
+p.parra3{
+  font-size: 40px;
+  margin: -70px 300px 0px 10px;
+  font-weight: bold;
+  color: #2B1B95;
+  float: right;
+}
+
+p.parra4{
+  font-size: 30px;
+  margin: -30px 60px 0px 10px;
+  font-weight: normal;
+  color: #2B1B95;
+  float: right;
+}
+td.alinear{
+  float: right;
+}
+
+.entrarB:hover{
+  background-color: #7E7E7E;
+  border: 0px;
+}
+
+a{
+  text-decoration: none;
+  font-size: 14px;
+}
+
+a:hover{
+  color: #000000;
+  text-decoration: underline;
+
+}
+
+table.tablaFecha{
+  font-size: 16px;
+  border-spacing: 5px;
+  float: right;
+  padding-right: 90px;
+}
+
+.botonB{
+  font-size: 20px;
+  width: 100%;
+}
+
+.alinearTexto{
+  text-align: right;
+}
+.btnRegistrar{
+  font-size: 20px;
+  width: 100%;
+  color: #FFFFFF;
+  background-color: #76D14B;
+  padding: 4px;
+  border-radius: 4px;
+}
+
+.btnRegistrar:hover{
+  background-color: #377529;
+}
+
+.derecha{
+  text-align: right;
+}
