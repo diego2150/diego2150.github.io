@@ -4,6 +4,23 @@
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+
+.a{
+  padding: 0px !important;
+  font-size: 25px;
+  text-decoration: none !important;
+  color: black !important;
+}
+
+.a:hover{
+  text-decoration: none !important;
+  color: blue !important;
+}
+
+.w:hover{
+  text-decoration: none !important;
+}
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
