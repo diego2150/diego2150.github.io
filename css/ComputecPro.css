@@ -51,12 +51,12 @@ div a.dropdown-item:hover{
 }
 
 h2{
-  border: #E0E7E7 2px solid;
-  background-color: #E0E7E7;
+  border: #FFB4CE 2px solid;
+  background-color: #FFB4CE;
   font-weight: bold;
   padding: 60px 10px 60px 10px;
   text-align: center;
-  color: #878787;
+  color: #FF5F96;
 }
 
 .encuadre{
@@ -102,4 +102,12 @@ h2{
   font-size: 50px;
   font-weight: bold;
   color: #0000A5;
+}
+.X{
+  border: blue 2px solid;
+  background-color: blue;
+  font-weight: bold;
+  text-align: center;
+  color: #FFFFFF;
+  padding: 50px 50px 50px 80px;
 }
