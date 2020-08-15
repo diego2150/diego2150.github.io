@@ -1,5 +1,5 @@
 .titulo{
-  background-color: #000B8E;
+  background-color: #810078;
 }
 
 .titulo-rapi{
@@ -21,8 +21,20 @@
 .text-medio{
   text-align: center;
   font-size: 25px;
-  color: green;
-  border: green 2px solid;
-  border-radius: 50px;
+  color: #8B008D;
   padding: 5px 30px 5px 30px;
+  background-color: #FD88FF;
 }
+
+.w{
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+}
+
+.w:hover{
+  text-decoration: none;
+  color: orange;
+  border: white 10px solid;
+}
+
